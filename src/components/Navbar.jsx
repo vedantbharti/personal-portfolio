@@ -8,6 +8,7 @@ function Navbar(){
                     <span class="nav__hamburger__line"></span>
                     <span class="nav__hamburger__line"></span>
                 </a>
+                
                 <div class="navbar--items ">
                     <ul>
                         <li><a class="navbar--content navbar--active-content">Home</a></li>
